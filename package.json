@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "dev-ip": "^1.0.1",
     "gulp": "^4.0.2"
   }
 }
